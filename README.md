@@ -13,12 +13,14 @@ The system is structured around modular game states (start menu, gameplay, optio
 - ⬅️ **Left Arrow** → Move tetromino left
 - ➡️ **Right Arrow** → Move tetromino right
 - ⬆️ **Up Arrow** → Rotate tetromino
-- ⬇️ **Hold Down Arrow** → Speed up tetromino descent (soft drop)
+- ⬇️ **Hold Down Arrow** → Speed up tetromino descent
 
 ### Menu:
 - **SPACE** → Start game
 - **ESC** → Restart after game over
 - **Mouse** → Navigate menus and select difficulty
+
+---
 
 ## Installation
 
