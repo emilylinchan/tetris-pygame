@@ -1,2 +1,16 @@
-# tetris-pygame
-A Python implementation of Tetris built with PyGame Zero, emphasizing object-oriented design, real-time game loops, and grid-based collision systems. Features include piece rotation, scoring, level progression, and a modular game state architecture.
+# Tetris (PyGame Zero Implementation)
+
+## Overview
+This project is a Python implementation of the classic Tetris game built using PyGame Zero. It emphasizes object-oriented design, real-time game loop architecture, and grid-based collision detection.
+
+The system is structured around modular game states (start menu, gameplay, options, and game over) and includes core gameplay features such as piece rotation, collision handling, scoring, level progression, and adjustable difficulty.
+---
+
+## Installation
+
+This project requires **Python 3** and **PyGame Zero**.
+
+Install dependencies using:
+
+```bash
+pip install pgzero
