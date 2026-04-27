@@ -7,6 +7,19 @@ The system is structured around modular game states (start menu, gameplay, optio
 
 ---
 
+## Controls
+
+### In-game:
+- ⬅️ **Left Arrow** → Move tetromino left
+- ➡️ **Right Arrow** → Move tetromino right
+- ⬆️ **Up Arrow** → Rotate tetromino
+- ⬇️ **Hold Down Arrow** → Speed up tetromino descent (soft drop)
+
+### Menu:
+- **SPACE** → Start game
+- **ESC** → Restart after game over
+- **Mouse** → Navigate menus and select difficulty
+
 ## Installation
 
 This project requires **Python 3** and **PyGame Zero**.
