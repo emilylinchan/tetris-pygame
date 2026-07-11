@@ -5,6 +5,13 @@ This project is a Python implementation of the classic Tetris game built using P
 
 The system is structured around modular game states (start menu, gameplay, options, and game over) and includes core gameplay features such as tetromino rotation, collision handling, scoring, level progression, and adjustable difficulty.
 
+<table>
+  <tr>
+    <td align="center"><img src="images/tetris_homescreen.png" alt="Home screen" width="100%"><br><sub>Home Screen</sub></td>
+    <td align="center"><img src="images/tetris_gamemode.png" alt="Gameplay" width="100%"><br><sub>Gameplay</sub></td>
+  </tr>
+</table>
+
 ---
 
 ## Controls
