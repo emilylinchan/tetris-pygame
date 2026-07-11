@@ -7,7 +7,7 @@ The system is structured around modular game states (start menu, gameplay, optio
 
 <table>
   <tr>
-    <td align="center"><img src="images/tetris_homescreen.png" alt="Home screen" width="100%"><br><sub>Home Screen</sub></td>
+    <td align="center"><img src="images/tetris_homescreen.png" alt="Menu" width="100%"><br><sub>Home Screen</sub></td>
     <td align="center"><img src="images/tetris_gamemode.png" alt="Gameplay" width="100%"><br><sub>Gameplay</sub></td>
   </tr>
 </table>
@@ -16,16 +16,16 @@ The system is structured around modular game states (start menu, gameplay, optio
 
 ## Controls
 
+### Menu:
+- **SPACE** → Start game
+- **ESC** → Restart after game over
+- **Mouse** → Navigate menus and select difficulty
+
 ### In-game:
 - ⬅️ **Left Arrow** → Move tetromino left
 - ➡️ **Right Arrow** → Move tetromino right
 - ⬆️ **Up Arrow** → Rotate tetromino
 - ⬇️ **Hold Down Arrow** → Speed up tetromino descent
-
-### Menu:
-- **SPACE** → Start game
-- **ESC** → Restart after game over
-- **Mouse** → Navigate menus and select difficulty
 
 ---
 
